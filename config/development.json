@@ -1,0 +1,7 @@
+{
+    "port": 3002,
+    "hostAddress": "http://localhost:3002/",
+    "appid": "71da4dca039984fe9541379a5ebe2cac",
+    "key": "cbe2adbb1583357b8405f32b9f53c133",
+    "baseUrl": "http://opeapi.ws.pho.to/"
+}

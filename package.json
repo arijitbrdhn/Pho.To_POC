@@ -1,0 +1,20 @@
+{
+  "name": "PhoTo_SDK",
+  "version": "1.0.0",
+  "description": "Customize your photo",
+  "main": "index.js",
+  "scripts": {
+    "debug": "node  --inspect-brk index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^9.1.0",
+    "axios": "^0.19.2",
+    "config": "^3.3.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2",
+    "xmljson": "^0.2.0"
+  }
+}
